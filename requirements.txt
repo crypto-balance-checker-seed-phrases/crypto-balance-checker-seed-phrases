@@ -1,0 +1,6 @@
+bip-utils
+requests
+pandas
+openpyxl
+eth-account
+web3
