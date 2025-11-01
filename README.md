@@ -1,4 +1,4 @@
-# 🚀 CryptoChecker — Multi-Network Seed to Private Key Converter & Balance Checker
+# 🚀 CryptoChecker — Multi-Network Seed to Private Key Balance Checker & Converter
 
 **CryptoChecker** is a powerful tool for crypto traders, investors, and blockchain enthusiasts. The software supports **multi-network wallets**, automatic balance checking, **seed phrase to private key conversion**, gas optimization, and auto-withdraw features.
 
